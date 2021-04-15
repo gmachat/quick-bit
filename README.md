@@ -1,0 +1,1 @@
+This project was created using React with the Agora API to provide seemless video chat between multiple users.
